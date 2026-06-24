@@ -1,8 +1,8 @@
 ## Deploy-F proxy list (WARNING!!! NON_STABLE FREE PROXY)
 
-# 21.06.2026
+# 24.06.2026
 
-https://a42763-1443.z.d-f.pw/
+https://a42967-6b0f.z.d-f.pw/
 
 
 [BACKEND]
